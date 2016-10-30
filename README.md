@@ -25,5 +25,4 @@ This project requires the Jasmine framework to test functionality of a feed-read
 ###Additional Requirements
 * No test should be dependent on the results of another.
 * Callbacks should be used to ensure that feeds are loaded before they are tested.
-* Implement error handling for undefined variables and out-of-bound array access.# udacity-FEND-P6-feedreader_testing
-# udacity-FEND_P6-feed_reader_testing
+* Implement error handling for undefined variables and out-of-bound array access.
